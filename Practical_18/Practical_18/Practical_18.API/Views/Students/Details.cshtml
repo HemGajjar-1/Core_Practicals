@@ -1,0 +1,54 @@
+﻿@model Practical_18.Application.ViewModels.StudentViewModel
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow border-0 rounded-4 mx-auto" style="max-width: 700px;">
+
+        <div class="card-header bg-dark text-white rounded-top-4">
+            <h3 class="mb-0">Student Details</h3>
+        </div>
+
+        <div class="card-body p-4 fs-5">
+
+            <p>
+                <strong>First Name:</strong>
+                @Model.FirstName
+            </p>
+
+            <p>
+                <strong>Last Name:</strong>
+                @Model.LastName
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                @Model.Email
+            </p>
+
+            <p>
+                <strong>Age:</strong>
+                @Model.Age
+            </p>
+
+            <div class="mt-4">
+                <a asp-action="Edit"
+                   asp-route-id="@Model.Id"
+                   class="btn btn-dark px-4 me-2">
+                    Edit
+                </a>
+
+                <a asp-action="Index"
+                   class="btn btn-secondary px-4">
+                    Back
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

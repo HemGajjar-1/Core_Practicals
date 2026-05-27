@@ -1,0 +1,16 @@
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\bin\Debug\net8.0\Practical_17.Application.deps.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\bin\Debug\net8.0\Practical_17.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\bin\Debug\net8.0\Practical_17.Application.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.AssemblyInfoInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.AssemblyInfo.cs
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.csproj.CoreCompileInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.sourcelink.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\refint\Practical_17.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\ref\Practical_17.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\bin\Debug\net8.0\Practical_17.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\bin\Debug\net8.0\Practical_17.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practical_17.Application.csproj.AssemblyReference.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Application\obj\Debug\net8.0\Practica.44E4AEF4.Up2Date

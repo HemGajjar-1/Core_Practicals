@@ -1,0 +1,13 @@
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\bin\Debug\net8.0\Practical_17.Domain.deps.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\bin\Debug\net8.0\Practical_17.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\bin\Debug\net8.0\Practical_17.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.AssemblyInfoInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.AssemblyInfo.cs
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.sourcelink.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\refint\Practical_17.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\ref\Practical_17.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_17\Practical_17\Practical_17.Domain\obj\Debug\net8.0\Practical_17.Domain.csproj.AssemblyReference.cache

@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|solutionrelative:practical_17.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|solutionrelative:practical_17.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|solutionrelative:practical_17.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.infrastructure\\migrations\\20260526153055_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|solutionrelative:practical_17.infrastructure\\migrations\\20260526153055_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|solutionrelative:practical_17.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1197A1EC-C0F6-446C-BF9B-3D5723B5149D}|Practical_17.API\\Practical_17.API.csproj|solutionrelative:practical_17.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.infrastructure\\seeders\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|solutionrelative:practical_17.infrastructure\\seeders\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.infrastructure\\practical_17.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EF56F72-E6A8-40F9-B025-7E54F1FD4481}|Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj|solutionrelative:practical_17.infrastructure\\practical_17.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\validators\\updatestudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\validators\\updatestudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\validators\\createstudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\validators\\createstudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22ACD255-CD19-4897-B693-6F6B11689E93}|Practical_17\\Practical_17.csproj|solutionrelative:practical_17\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_17\\practical_17\\practical_17.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECDB785-A22E-4417-B3A5-F565DC4E75E0}|Practical_17.Application\\Practical_17.Application.csproj|solutionrelative:practical_17.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 14,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Practical_17\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:48:34.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Service\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Service\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Service\\IStudentService.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Service\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T13:51:53.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Title": "20260526153055_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Migrations\\20260526153055_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Practical_17.Infrastructure\\Migrations\\20260526153055_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Migrations\\20260526153055_InitialCreate.cs",
+              "RelativeToolTip": "Practical_17.Infrastructure\\Migrations\\20260526153055_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T13:51:38.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\appsettings.json",
-              "RelativeDocumentMoniker": "Practical_17\\appsettings.json",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\appsettings.json",
-              "RelativeToolTip": "Practical_17\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-24T12:15:03.64Z",
+              "WhenOpened": "2026-05-26T15:30:56.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Program.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Program.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Program.cs",
-              "RelativeToolTip": "Practical_17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_17.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practical_17.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T12:04:08.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Service\\StudentService.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Service\\StudentService.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Service\\StudentService.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Service\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:48:15.067Z",
+              "WhenOpened": "2026-05-26T15:28:39.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:47:42.573Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_17.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\appsettings.json",
+              "RelativeToolTip": "Practical_17.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T15:20:15.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\Role.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Entity\\Role.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\Role.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Entity\\Role.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Practical_17.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Practical_17.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:47:10.335Z",
+              "WhenOpened": "2026-05-26T15:04:05.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\User.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Practical_17.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Practical_17.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:47:01.739Z",
+              "WhenOpened": "2026-05-26T15:03:10.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\Student.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Entity\\Student.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Entity\\Student.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Entity\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Seeders\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "Practical_17.Infrastructure\\Seeders\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Seeders\\IdentitySeeder.cs",
+              "RelativeToolTip": "Practical_17.Infrastructure\\Seeders\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:46:55.064Z",
+              "WhenOpened": "2026-05-26T14:50:01.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Practical_17\\Models\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17\\Models\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Practical_17\\Models\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Title": "Practical_17.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj",
+              "RelativeToolTip": "Practical_17.Infrastructure\\Practical_17.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T14:49:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStudentDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\UpdateStudentDtoValidator.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Validators\\UpdateStudentDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\UpdateStudentDtoValidator.cs",
+              "RelativeToolTip": "Practical_17.Application\\Validators\\UpdateStudentDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T11:46:31.257Z",
+              "WhenOpened": "2026-05-26T14:40:06.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_17.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.API\\Program.cs",
+              "RelativeToolTip": "Practical_17.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:26:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Validators\\LoginDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\LoginDtoValidator.cs",
+              "RelativeToolTip": "Practical_17.Application\\Validators\\LoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:14:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Validators\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "Practical_17.Application\\Validators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:14:09.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStudentDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\CreateStudentDtoValidator.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Validators\\CreateStudentDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Validators\\CreateStudentDtoValidator.cs",
+              "RelativeToolTip": "Practical_17.Application\\Validators\\CreateStudentDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:13:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Practical_17.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:06:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Practical_17.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_17\\Practical_17\\Practical_17.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "Practical_17.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:06:44.305Z",
               "EditorCaption": ""
             }
           ]
