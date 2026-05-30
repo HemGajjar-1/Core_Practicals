@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Practical_19.API</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Practical_19.API.styles.css" asp-append-version="true" />
+</head>
+
+<body class="bg-light">
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+            <div class="container">
+
+                <a class="navbar-brand fw-bold"
+                   asp-controller="Home"
+                   asp-action="Index">
+                    Practical 19
+                </a>
+
+                <div class="ms-auto d-flex align-items-center gap-3">
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <span class="text-white">
+                            Welcome, @User.Identity.Name
+                        </span>
+
+                        <a class="btn btn-outline-light btn-sm"
+                           asp-controller="Home"
+                           asp-action="Index">
+                            Home
+                        </a>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <a class="btn btn-warning btn-sm"
+                               asp-controller="Admin"
+                               asp-action="Index">
+                                Admin Panel
+                            </a>
+                        }
+
+                        <a class="btn btn-danger btn-sm"
+                           asp-controller="Account"
+                           asp-action="Logout">
+                            Logout
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-outline-light btn-sm"
+                           asp-controller="Account"
+                           asp-action="Register">
+                            Register
+                        </a>
+
+                        <a class="btn btn-primary btn-sm"
+                           asp-controller="Account"
+                           asp-action="Login">
+                            Login
+                        </a>
+                    }
+
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <partial name="_ValidationScriptsPartial" />
+
+</body>
+</html>

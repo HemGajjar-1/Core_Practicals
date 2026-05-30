@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|solutionrelative:practical_19.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|solutionrelative:practical_19.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|solutionrelative:practical_19.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.application\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|solutionrelative:practical_19.application\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|solutionrelative:practical_19.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71995A8F-1448-45BB-8A32-7623AAB7101E}|Practical_19.Application\\Practical_19.Application.csproj|solutionrelative:practical_19.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.api\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFCC2FF-83B3-46E4-83DC-E966D7A48466}|Practical_19.API\\Practical_19.API.csproj|solutionrelative:practical_19.api\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8689327-BC14-4A92-8813-FF1EB73ABC4C}|Practical_19.Infrastructure\\Practical_19.Infrastructure.csproj|solutionrelative:practical_19.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B216-4DF4-4DE7-9C09-77DFC978F38A}|Practical_19.Domain\\Practical_19.Domain.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_19\\practical_19\\practical_19.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B216-4DF4-4DE7-9C09-77DFC978F38A}|Practical_19.Domain\\Practical_19.Domain.csproj|solutionrelative:practical_19.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Shared\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Shared\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Shared\\AccessDenied.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Shared\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:45:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:45:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Practical_19.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Practical_19.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:44:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Practical_19.API\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Practical_19.API\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:40:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Practical_19.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Practical_19.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:36:55.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Practical_19.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Practical_19.Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:36:17.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:34:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:33:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:30:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical_19.API\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practical_19.API\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T17:29:26.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practical_19.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practical_19.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:28:45.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Practical_19.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Practical_19.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:28:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Practical_19.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Practical_19.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:47:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Practical_19.Application\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "Practical_19.Application\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:43:58.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Practical_19.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Practical_19.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:08:08.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Practical_19.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Practical_19.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:07:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_19.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\appsettings.json",
+              "RelativeToolTip": "Practical_19.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T14:32:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_19.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.API\\Program.cs",
+              "RelativeToolTip": "Practical_19.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:32:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_19.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practical_19.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:29:23.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Practical_19.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_19\\Practical_19\\Practical_19.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Practical_19.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:24:08.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

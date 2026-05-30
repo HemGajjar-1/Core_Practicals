@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\dtos\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\dtos\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\migrations\\20260529160727_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\migrations\\20260529160727_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|solutionrelative:practical_20.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|solutionrelative:practical_20.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.api\\practical_20.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7CED73D-3E26-436D-924F-0A54F4D0D434}|Practical_20.API\\Practical_20.API.csproj|solutionrelative:practical_20.api\\practical_20.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.domain\\practical_20.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|solutionrelative:practical_20.domain\\practical_20.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\practical_20.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\practical_20.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782583A5-0B33-4CF8-A992-41AD4037F4EF}|Practical_20.Application\\Practical_20.Application.csproj|solutionrelative:practical_20.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D679C317-DCA9-4E36-AB69-942301659E40}|Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj|solutionrelative:practical_20.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|c:\\users\\hemga\\source\\repos\\core practicals\\practical_20\\practical_20\\practical_20.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E134590-29C4-4337-B3C9-33121F18E3FE}|Practical_20.Domain\\Practical_20.Domain.csproj|solutionrelative:practical_20.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\EmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\DTOs\\EmployeeResponseDto.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\EmployeeResponseDto.cs",
+              "RelativeToolTip": "Practical_20.Application\\DTOs\\EmployeeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:36:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Practical_20.Application\\DTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:35:27.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "Practical_20.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:32:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Practical_20.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Practical_20.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T06:25:33.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Practical_20.API\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "Practical_20.API\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T06:24:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Practical_20.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Practical_20.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:36:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Practical_20.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAEQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:13:48.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Practical_20.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:08:10.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Practical_20.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:00:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Practical_20.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:52:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Practical_20.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:28:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Practical_20.Application\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:21:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260529160727_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Migrations\\20260529160727_initialcreate.cs",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\Migrations\\20260529160727_initialcreate.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Migrations\\20260529160727_initialcreate.cs",
+              "RelativeToolTip": "Practical_20.Infrastructure\\Migrations\\20260529160727_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:07:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practical_20.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\appsettings.json",
+              "RelativeToolTip": "Practical_20.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T15:58:26.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_20.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Program.cs",
+              "RelativeToolTip": "Practical_20.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:58:22.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practical_20.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:44:36.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Practical_20.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Practical_20.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:36:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Practical_20.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Practical_20.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:27:16.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Practical_20.API.csproj",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Practical_20.API.csproj",
+              "RelativeDocumentMoniker": "Practical_20.API\\Practical_20.API.csproj",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.API\\Practical_20.API.csproj",
+              "RelativeToolTip": "Practical_20.API\\Practical_20.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T15:15:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Practical_20.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Practical_20.Domain.csproj",
+              "RelativeDocumentMoniker": "Practical_20.Domain\\Practical_20.Domain.csproj",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Practical_20.Domain.csproj",
+              "RelativeToolTip": "Practical_20.Domain\\Practical_20.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T15:13:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Practical_20.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj",
+              "RelativeToolTip": "Practical_20.Infrastructure\\Practical_20.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T15:09:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Practical_20.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Application\\Class1.cs",
+              "RelativeToolTip": "Practical_20.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:07:39.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Practical_20.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Practical_20.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:07:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Practical_20.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\hemga\\source\\repos\\Core Practicals\\Practical_20\\Practical_20\\Practical_20.Domain\\Class1.cs",
+              "RelativeToolTip": "Practical_20.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:06:46.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

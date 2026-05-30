@@ -1,0 +1,12 @@
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\bin\Debug\net8.0\Practical_20.Domain.deps.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\bin\Debug\net8.0\Practical_20.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\bin\Debug\net8.0\Practical_20.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.AssemblyInfoInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.AssemblyInfo.cs
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.sourcelink.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\refint\Practical_20.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\Practical_20.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Domain\obj\Debug\net8.0\ref\Practical_20.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\bin\Debug\net8.0\Practical_20.Application.deps.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\bin\Debug\net8.0\Practical_20.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\bin\Debug\net8.0\Practical_20.Application.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\bin\Debug\net8.0\Practical_20.Domain.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\bin\Debug\net8.0\Practical_20.Domain.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.csproj.AssemblyReference.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.AssemblyInfoInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.AssemblyInfo.cs
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.csproj.CoreCompileInputs.cache
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.sourcelink.json
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practica.B8A3B75E.Up2Date
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\refint\Practical_20.Application.dll
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\Practical_20.Application.pdb
+C:\Users\hemga\source\repos\Core Practicals\Practical_20\Practical_20\Practical_20.Application\obj\Debug\net8.0\ref\Practical_20.Application.dll
